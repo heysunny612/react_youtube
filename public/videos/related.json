@@ -1,0 +1,216 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "w20y--Iz9es-ii2v8Yxg6qQqxSQ",
+  "nextPageToken": "CAUQAA",
+  "pageInfo": {
+    "totalResults": 156,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "utVsXWHQ-IUTB0CJuhmBi-NOAFU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "P_6vDLq64gE"
+      },
+      "snippet": {
+        "publishedAt": "2011-10-13T19:33:04Z",
+        "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
+        "title": "How to spot a liar | Pamela Meyer",
+        "description": "Visit http://TED.com to get our entire library of TED Talks, transcripts, translations, personalized talk recommendations and more.\n\nOn any given day we're lied to from 10 to 200 times, and the clues to detect those lies can be subtle and counter-intuitive. Pamela Meyer, author of \"Liespotting,\" shows the manners and \"hotspots\" used by those trained to recognize deception -- and she argues honesty is a value worth preserving. (Contains mature content)\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less). Look for talks on Technology, Entertainment and Design -- plus science, business, global issues, the arts and more. You're welcome to link to or embed these videos, forward them to others and share these ideas with people you know. \n\nFollow TED on Twitter: http://twitter.com/TEDTalks\nLike TED on Facebook: http://facebook.com/TED\nSubscribe to our channel: http://youtube.com/TED\n\nTED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy (https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy). For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at https://media-requests.ted.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/P_6vDLq64gE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/P_6vDLq64gE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/P_6vDLq64gE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/P_6vDLq64gE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "TED",
+        "liveBroadcastContent": "none",
+        "publishTime": "2011-10-13T19:33:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-XzEGV5Th1BKTT1p18AoMko7V18",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VRJzvJ5XPQI"
+      },
+      "snippet": {
+        "publishedAt": "2021-10-15T19:29:36Z",
+        "channelId": "UCftwRNsjfRo08xYE31tkiyw",
+        "title": "Body Language Expert Explains How to Show Confidence | WIRED",
+        "description": "Former FBI agent and body language expert Joe Navarro explains how we can project confidence through our body language. Joe takes a look at various celebrities and politicians and demonstrates the things that they do that can help them appear more confident. \r\n\r\nCheck out Joe's book \"Be Exceptional\"\r\nhttps://www.amazon.com/Be-Exceptional-Master-Traits-Extraordinary-ebook/dp/B08K93BLQP/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=\r\n\r\nhttps://www.jnforensics.com/ \r\n\r\nBooks By Joe Navarro: https://www.jnforensics.com/books\r\nJoe Navarro Body Language Academy: https://jnbodylanguageacademy.com\n\nStill haven’t subscribed to WIRED on YouTube? ►► http://wrd.cm/15fP7B7 \r\nListen to the Get WIRED podcast  ►► https://link.chtbl.com/wired-ytc-desc\r\nWant more WIRED? Get the magazine ►► https://subscribe.wired.com/subscribe/splits/wired/WIR_YouTube?source=EDT_WIR_YouTube_0_Video_Description_ZZ\r\n\r\nFollow WIRED:\r\n\r\nInstagram ►►https://instagram.com/wired\r\nTwitter ►►http://www.twitter.com/wired\r\nFacebook ►►https://www.facebook.com/wired\r\n\r\nGet more incredible stories on science and tech with our daily newsletter: https://wrd.cm/DailyYT\r\n\r\nAlso, check out the free WIRED channel on Roku, Apple TV, Amazon Fire TV, and Android TV. \r\n\r\nABOUT WIRED\r\nWIRED is where tomorrow is realized. Through thought-provoking stories and videos, WIRED explores the future of business, innovation, and culture.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VRJzvJ5XPQI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VRJzvJ5XPQI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VRJzvJ5XPQI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VRJzvJ5XPQI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VRJzvJ5XPQI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "WIRED",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-10-15T19:29:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "URR6YKppjiZFRZ4PevPD3BnXbe8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5MgBikgcWnY"
+      },
+      "snippet": {
+        "publishedAt": "2013-03-14T16:36:33Z",
+        "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+        "title": "The first 20 hours -- how to learn anything | Josh Kaufman | TEDxCSU",
+        "description": "Never miss a talk! SUBSCRIBE to the TEDx channel: http://bit.ly/1FAg8hB\n\nJosh Kaufman is the author of the #1 international bestseller, 'The Personal MBA: Master the Art of Business', as well as the upcoming book 'The First 20 Hours: Mastering the Toughest Part of Learning Anything.' Josh specializes in teaching people from all walks of life how to master practical knowledge and skills. In his talk, he shares how having his first child inspired him to approach learning in a whole new way. \n\nIn the spirit of ideas worth spreading, TEDx is a program of local, self-organized events that bring people together to share a TED-like experience. At a TEDx event, TEDTalks video and live speakers combine to spark deep discussion and connection in a small group. These local, self-organized events are branded TEDx, where x = independently organized TED event. The TED Conference provides general guidance for the TEDx program, but individual TEDx events are self-organized.* (*Subject to certain rules and regulations)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5MgBikgcWnY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5MgBikgcWnY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5MgBikgcWnY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5MgBikgcWnY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5MgBikgcWnY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TEDx Talks",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-03-14T16:36:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HVf-FXA6IBmMZPo7J0colWJX5LY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TFbv757kup4"
+      },
+      "snippet": {
+        "publishedAt": "2015-12-04T03:56:36Z",
+        "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+        "title": "The Secret of Becoming Mentally Strong | Amy Morin | TEDxOcala",
+        "description": "Everyone has the ability to build mental strength, but most people don't know how. \r\nWe spend a lot of time talking about physical strength and physical health, but much less time on mental strength and mental health. \r\nWe can choose to perform exercises that will help us learn to regulate our thoughts, manage our emotions, and behave productively despite our circumstances - the 3 basic factors of mental strength. No matter what your goals are, building mental strength is the key to reaching your greatest potential.\n\nAmy Morin is a licensed clinical social worker and psychotherapist. Since 2002, she has been counseling children, teens, and adults. She also works as an adjunct psychology instructor.\r\n \r\nAmy’s expertise in mental strength has attracted international attention. Her bestselling book, 13 Things Mentally Strong People Don’t Do, is being translated into more than 20 languages.\r\n \r\nAmy’s advice has been featured by a number of media outlets, including: Time, Fast Company, Good Housekeeping, Business Insider, Elle, Cosmopolitan, Success, Glamour, Oprah.com, TheBlaze TV, and Fox News. She has also been a guest on dozens of radio shows.\r\n \r\nShe is a regular contributor to Forbes, Inc., and Psychology Today. She serves as About.com’s Parenting Teens Expert and Discipline Expert.\r\n \r\nAs a frequent keynote speaker, Amy loves to share the latest research on resilience and the best strategies for overcoming adversity and building mental muscle.\r\n\n\nThis talk was given at a TEDx event using the TED conference format but independently organized by a local community. Learn more at http://ted.com/tedx",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TFbv757kup4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TFbv757kup4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TFbv757kup4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TEDx Talks",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-12-04T03:56:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jD08y-NoucUj6DcYqMqKPyYcJm0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RKK7wGAYP6k"
+      },
+      "snippet": {
+        "publishedAt": "2018-04-05T20:17:43Z",
+        "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
+        "title": "How language shapes the way we think | Lera Boroditsky",
+        "description": "There are about 7,000 languages spoken around the world -- and they all have different sounds, vocabularies and structures. But do they shape the way we think? Cognitive scientist Lera Boroditsky shares examples of language -- from an Aboriginal community in Australia that uses cardinal directions instead of left and right to the multiple words for blue in Russian -- that suggest the answer is a resounding yes. \"The beauty of linguistic diversity is that it reveals to us just how ingenious and how flexible the human mind is,\" Boroditsky says. \"Human minds have invented not one cognitive universe, but 7,000.\"\n\nCheck out more TED Talks: http://www.ted.com\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less). Look for talks on Technology, Entertainment and Design -- plus science, business, global issues, the arts and more.\n\nFollow TED on Twitter: http://www.twitter.com/TEDTalks\nLike TED on Facebook: https://www.facebook.com/TED\n\nSubscribe to our channel: https://www.youtube.com/TED",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RKK7wGAYP6k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RKK7wGAYP6k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RKK7wGAYP6k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RKK7wGAYP6k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RKK7wGAYP6k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TED",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-04-05T20:17:43Z"
+      }
+    }
+  ]
+}
