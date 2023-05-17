@@ -5,6 +5,16 @@ export default class MockYoutube {
     return keyword ? this.#searchByKeyword(keyword) : this.#mostPopular();
   }
 
+  async relatedVideos() {
+    return axios.get(`/videos/related.json`).then((res) => res.data.items);
+  }
+
+  async channelImageURL() {
+    return axios
+      .get(`/videos/channel.json`)
+      .then((res) => res.data.items[0].snippet.thumbnails.default.url);
+  }
+
   async #searchByKeyword() {
     return axios
       .get(`/videos/search.json`)
