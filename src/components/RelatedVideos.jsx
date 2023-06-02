@@ -16,7 +16,7 @@ export default function RelatedVideos({ id }) {
   return (
     <>
       {isLoading && <Loading />}
-      {error && <p>에러발생했습니다.</p>}
+      {error && <p className='text-center'>에러발생했습니다.</p>}
       {videos && (
         <ul className=''>
           {videos.map((video) => (

@@ -15,7 +15,7 @@ export default function VideoDetail() {
 
   return (
     <section className='flex flex-col lg:flex-row'>
-      <article className='basis-4/6 '>
+      <article className='basis-4/6'>
         <iframe
           width='100%'
           height='640'
@@ -24,12 +24,14 @@ export default function VideoDetail() {
           allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share'
           allowFullScreen
         ></iframe>
-        <div className='p-8'>
+        <div className='lg:p-8'>
           <h2 className='text-xl font-bold'>{title}</h2>{' '}
           <ChannelInfo id={channelId} name={channelTitle} />
-          <pre className='whitespace-pre-wrap'>{description}</pre>
+          <pre className='whitespace-pre-wrap bg-zinc-800 p-3 rounded-xl'>
+            {description}
+          </pre>
         </div>
-        <div>
+        <div className='lg:p-8'>
           <Comment id={videoId} />
         </div>
       </article>

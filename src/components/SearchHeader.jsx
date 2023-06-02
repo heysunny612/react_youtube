@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import { BsYoutube, BsSearch } from 'react-icons/bs';
+import { BsYoutube, BsSearch, BsGithub } from 'react-icons/bs';
 import { Link, useParams } from 'react-router-dom';
 import { useNavigate } from 'react-router-dom';
 
@@ -17,7 +17,7 @@ export default function SearchHeader() {
   }, [keyword]);
 
   return (
-    <header className='flex w-full p-4 text-2xl border-b  border-zinc-600 mb-4'>
+    <header className='flex w-full p-4 text-2xl border-b  border-zinc-600 mb-4 justify-between items-center'>
       <Link to='/' className='flex items-center'>
         <BsYoutube className='text-4xl text-brand' />{' '}
         <h1 className='font-bold ml-2 text-3xl'>Youtube </h1>
@@ -35,6 +35,14 @@ export default function SearchHeader() {
           <BsSearch />
         </button>
       </form>
+      <a
+        href='https://github.com/heysunny612/react_youtube'
+        target='_blank'
+        rel='noreferrer'
+        className='text-2xl'
+      >
+        <BsGithub />
+      </a>
     </header>
   );
 }
