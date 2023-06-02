@@ -1,31 +1,33 @@
-import { useQuery } from '@tanstack/react-query';
 import React from 'react';
-import { useParams, Link } from 'react-router-dom';
-import VideoCard from '../components/VideoCard/VideoCard';
-import { useYoutubeApi } from '../context/YoutubeApiContext';
+import { useQuery } from '@tanstack/react-query';
+import { useParams } from 'react-router-dom';
+import VideoCard from '../components/VideoCard';
+import { useYoutebeApi } from '../context/YoutubeApiContext';
+import Loading from '../components/Loading';
 
 export default function Videos() {
+  const { youtube } = useYoutebeApi();
   const { keyword } = useParams();
-  const { youtube } = useYoutubeApi();
   const {
     isLoading,
     error,
     data: videos,
-  } = useQuery(['videos', keyword], () => youtube.search(keyword));
+  } = useQuery(
+    ['videos', keyword],
+    async () => await youtube.getVideos(keyword),
+    { staleTime: 1000 * 60 }
+  );
   return (
-    <div>
-      {isLoading && <p>아직로딩중입니다.</p>}
-      {error && <p>에러발생</p>}
+    <section>
+      {isLoading && <Loading />}
+      {error && <p>에러발생했습니다.</p>}
       {videos && (
-        <ul className='videos'>
+        <ul className='grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 2xl:grid-cols-5 gap-2 gap-y-4'>
           {videos.map((video) => (
-            <VideoCard key={video.id} video={video} />
+            <VideoCard video={video} key={video.id} />
           ))}
         </ul>
       )}
-      ;
-      {keyword ? `${keyword} 검색 결과입니다.⭐` : '핫트랜드 검색결과 입니다❤️'}
-      <Link to='/videos/watch/video'>상세보러가기</Link>
-    </div>
+    </section>
   );
 }

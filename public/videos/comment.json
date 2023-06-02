@@ -1,0 +1,677 @@
+{
+  "kind": "youtube#commentThreadListResponse",
+  "etag": "kXgIAvoO-QpyyKoSOQ1TWpHoK48",
+  "nextPageToken": "QURTSl9pMnN5aHBMSmJMMnFfT083TTZ2WUNBYkdKRDhuUFpkc1FERVdHU1RhM3JtSzk1aFBFQkU2WG9INFkzUlpCazBCS1o2UTJkNk5YWQ==",
+  "pageInfo": {
+    "totalResults": 20,
+    "resultsPerPage": 20
+  },
+  "items": [
+    {
+      "kind": "youtube#commentThread",
+      "etag": "RxjISgP7cK4UsHlk5gocogb1wvk",
+      "id": "UgyEuG0wREid1ekgxX14AaABAg",
+      "snippet": {
+        "videoId": "_VB39Jo8mAQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "qUYKrY0redz-G4LEHpRDwWidz0s",
+          "id": "UgyEuG0wREid1ekgxX14AaABAg",
+          "snippet": {
+            "videoId": "_VB39Jo8mAQ",
+            "textDisplay": "Just to point out it has become very clear, it was stagnant wages, which have not been increasing with worker productivity that caused debt to increase. Not money becoming sort of more intangible.",
+            "textOriginal": "Just to point out it has become very clear, it was stagnant wages, which have not been increasing with worker productivity that caused debt to increase. Not money becoming sort of more intangible.",
+            "authorDisplayName": "Alex",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqOL4ADoQoq6eCMC25l3aJtg1ZwImx4B04xhJa-_xqiE2xNrPoK-AFFMK6h8SsBH=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCdzwSqzjr25gtTVKbGnoi2w",
+            "authorChannelId": {
+              "value": "UCdzwSqzjr25gtTVKbGnoi2w"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2023-04-06T00:45:58Z",
+            "updatedAt": "2023-04-06T00:48:09Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "_SpsaDqnGQfzSurQh220dcJ-M08",
+      "id": "UgyI3LdbUz63ptzG3LN4AaABAg",
+      "snippet": {
+        "videoId": "_VB39Jo8mAQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "c2dWJoxiHajlQK3-aaSJQRtOREc",
+          "id": "UgyI3LdbUz63ptzG3LN4AaABAg",
+          "snippet": {
+            "videoId": "_VB39Jo8mAQ",
+            "textDisplay": "<a href=\"https://www.youtube.com/watch?v=_VB39Jo8mAQ&amp;t=8m00s\">8:00</a> So basically the plot of Trading Places.",
+            "textOriginal": "8:00 So basically the plot of Trading Places.",
+            "authorDisplayName": "Reggie The Commenter",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqOLwwku9EBa5J1UtYDhvC13WWj_OV-Ns9-J_kpUm1QLr5hen8TTTx8CLw1Sv-ln=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCbKbEb77FOZGMLUqRg0eTlg",
+            "authorChannelId": {
+              "value": "UCbKbEb77FOZGMLUqRg0eTlg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-03-27T03:42:35Z",
+            "updatedAt": "2023-03-27T03:42:35Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "nWPfeJp-RlQs2saMaTsEiCBf4uQ",
+      "id": "UgyzE7AIgiVDZPiGVPZ4AaABAg",
+      "snippet": {
+        "videoId": "_VB39Jo8mAQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "vKEYbRRdDuxGo3vrAh9opOydxF4",
+          "id": "UgyzE7AIgiVDZPiGVPZ4AaABAg",
+          "snippet": {
+            "videoId": "_VB39Jo8mAQ",
+            "textDisplay": "ISNT THIS THE SIX FLAGS GUY MASCOT &quot;WE LIKE TO PARTY WE LIKE WE LIKE TO PARTY&quot;",
+            "textOriginal": "ISNT THIS THE SIX FLAGS GUY MASCOT \"WE LIKE TO PARTY WE LIKE WE LIKE TO PARTY\"",
+            "authorDisplayName": "brian",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqNwe6Rw-0F_QUcX5qAmF5nI-s2B0RIZrzSQSi71ps43NhrEHWJpsYqdcq1-SEtG=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCYiZ1wzSK-A-USYfNTbgecg",
+            "authorChannelId": {
+              "value": "UCYiZ1wzSK-A-USYfNTbgecg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-03-24T12:41:57Z",
+            "updatedAt": "2023-03-24T12:41:57Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "vSo7MmuZNfmSHtBsw967xgEx5r0",
+      "id": "Ugx-OtfEBVb-LLkEm2l4AaABAg",
+      "snippet": {
+        "videoId": "_VB39Jo8mAQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "y5GBHpDpQttwHleJenJhviqgSxI",
+          "id": "Ugx-OtfEBVb-LLkEm2l4AaABAg",
+          "snippet": {
+            "videoId": "_VB39Jo8mAQ",
+            "textDisplay": "I explained to my kids early on: If you owe the credit card company $500.00 at the end of the month.....and you pay $499.99 (one cent short) of it back....they will charge you interest  on the whole $500.00 you borrowed. It sounds crooked but that&#39;s what will happen....Always, ALWAYS pay the balance no matter what...or the cycle starts and you may never get out of it. Now days...the only thing they owe money on is their house...maybe a car......but that&#39;s it. I&#39;ve never bought a car on terms....my 3 houses are paid off and I&#39;m worth about 3 mil. I own a small, successful plumbing business.",
+            "textOriginal": "I explained to my kids early on: If you owe the credit card company $500.00 at the end of the month.....and you pay $499.99 (one cent short) of it back....they will charge you interest  on the whole $500.00 you borrowed. It sounds crooked but that's what will happen....Always, ALWAYS pay the balance no matter what...or the cycle starts and you may never get out of it. Now days...the only thing they owe money on is their house...maybe a car......but that's it. I've never bought a car on terms....my 3 houses are paid off and I'm worth about 3 mil. I own a small, successful plumbing business.",
+            "authorDisplayName": "Read More",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/EX792eofkrcZL0_XAc0Z9pAp5e7Wmh9U4Gd87qjflAHHiUO3CdBR7tVMKeFywK9oxV6rQJJZog=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCv56OVFYQ4TuF3_4Or-1-bg",
+            "authorChannelId": {
+              "value": "UCv56OVFYQ4TuF3_4Or-1-bg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-03-21T04:05:25Z",
+            "updatedAt": "2023-03-21T04:05:25Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "wfheg9731LWmPSB5bLso6uU6pSM",
+      "id": "UgxU-jeT-AjkY5tkuGR4AaABAg",
+      "snippet": {
+        "videoId": "_VB39Jo8mAQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "l3WsW0UvAmmVob3i2eeqdia7Jy4",
+          "id": "UgxU-jeT-AjkY5tkuGR4AaABAg",
+          "snippet": {
+            "videoId": "_VB39Jo8mAQ",
+            "textDisplay": "I would have played like your youngest kid normally does... by and buy and buy cause at some point someone wants that property cause it completes the set...",
+            "textOriginal": "I would have played like your youngest kid normally does... by and buy and buy cause at some point someone wants that property cause it completes the set...",
+            "authorDisplayName": "Dakota Peters",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/uf1K6MpXzwNd6uCIIPHbLoWAB7dR9H6WH-PVNO7uMPj1SZf2ODZCmFkvqWwiq3fkjL8BNQAyaCg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCuJ_rnRzx_UeX4sxxPU-FbQ",
+            "authorChannelId": {
+              "value": "UCuJ_rnRzx_UeX4sxxPU-FbQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-03-16T20:56:53Z",
+            "updatedAt": "2023-03-16T20:56:53Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      },
+      "replies": {
+        "comments": [
+          {
+            "kind": "youtube#comment",
+            "etag": "QRaozj2RhBbxqCPL70edsUiEuY4",
+            "id": "UgxU-jeT-AjkY5tkuGR4AaABAg.9nKns0P5Iq89nKsfdBFpuN",
+            "snippet": {
+              "videoId": "_VB39Jo8mAQ",
+              "textDisplay": "To add to it. Very few seem to care about the inequality and imbalances, probably cause there is more than 50% able to get by. However, the ones making the bottom 2% of money are the 20%-40% of the lower end population doing the jobs that take the most toll on they&#39;re bodies causing them to have to spend that much more on hospital bills and never able to catch up dieing on debt cause they work they&#39;re whole life&#39;s just to keep things floating and even if they did quit and find other jobs well let&#39;s face it they don&#39;t get those jobs that make easy money. And nobody that&#39;s within the to 20%-40% want to or would even attempt to work those jobs when they did quit. Not when they are the ones making at least 80% or more of the money... it&#39;s not balanced, and the rich wouldn&#39;t want it to be balanced... they feel they are worth more cause they used their head more and earned it. It&#39;s not true at all. If all the bottom 20%-40% just banded together one day and decided we&#39;re going to let the top 60%-80% fend for themselves, then the top 60%-80% wouldn&#39;t have no food water power electricity etc... cause all of the employees would have quit work. At least up to the point that nobody who knows how to do the work that keeps everyone alive is still working or helping the rest out... what would they do then... if they tried to force us that are in poverty to get back to work, they would have a fight on their hands that they couldn&#39;t win... and there are studies out there proving that just book knowledge isn&#39;t enough to get by when it comes to doing the jobs. So they would be screwed. Very few would survive being that they got lucky, and that&#39;s not saying they would survive long. Just survive. Not thrive. Just barely scrape by... just wait another generation, maybe 2. If it continues like it is going, then that&#39;s probably going to be exactly what happens.... not to come across with a negative outlook but speaking with truth cause I&#39;ve been hearing it my whole life growing up. But the upper-class and upper middle class haven&#39;t because most of them didn&#39;t start in poverty, and poverty then was the same as poverty now... I wonder if we got another Boston ☕️ party situation coming soon... if there is something we ought to know, it&#39;s better to confess it instead of having someone else blow the whistle on it all... at least then, there is a chance of fixing mistakes and making amendments. However, if there is something being hidden and those that are hidden from finding out about it or when they say enough is enough, then it&#39;s most likely too late... that&#39;s all just hypothetical, of course. Hopefully, things get solved. For the greater good of all. Funny that I&#39;ve only ever heard for the greater good when it comes to war and genocide ot things like that. But the only time it would actually be for the greater good of all would be now and times like now whenever there&#39;s imbalances that tip the scale of equality too much. 😉 something to think on. I&#39;ve been working slowly at articulating some big thoughts on the infrastructure &amp; structure of government and uniting everybody, but I have more work to do.🎉😊 have a good day",
+              "textOriginal": "To add to it. Very few seem to care about the inequality and imbalances, probably cause there is more than 50% able to get by. However, the ones making the bottom 2% of money are the 20%-40% of the lower end population doing the jobs that take the most toll on they're bodies causing them to have to spend that much more on hospital bills and never able to catch up dieing on debt cause they work they're whole life's just to keep things floating and even if they did quit and find other jobs well let's face it they don't get those jobs that make easy money. And nobody that's within the to 20%-40% want to or would even attempt to work those jobs when they did quit. Not when they are the ones making at least 80% or more of the money... it's not balanced, and the rich wouldn't want it to be balanced... they feel they are worth more cause they used their head more and earned it. It's not true at all. If all the bottom 20%-40% just banded together one day and decided we're going to let the top 60%-80% fend for themselves, then the top 60%-80% wouldn't have no food water power electricity etc... cause all of the employees would have quit work. At least up to the point that nobody who knows how to do the work that keeps everyone alive is still working or helping the rest out... what would they do then... if they tried to force us that are in poverty to get back to work, they would have a fight on their hands that they couldn't win... and there are studies out there proving that just book knowledge isn't enough to get by when it comes to doing the jobs. So they would be screwed. Very few would survive being that they got lucky, and that's not saying they would survive long. Just survive. Not thrive. Just barely scrape by... just wait another generation, maybe 2. If it continues like it is going, then that's probably going to be exactly what happens.... not to come across with a negative outlook but speaking with truth cause I've been hearing it my whole life growing up. But the upper-class and upper middle class haven't because most of them didn't start in poverty, and poverty then was the same as poverty now... I wonder if we got another Boston ☕️ party situation coming soon... if there is something we ought to know, it's better to confess it instead of having someone else blow the whistle on it all... at least then, there is a chance of fixing mistakes and making amendments. However, if there is something being hidden and those that are hidden from finding out about it or when they say enough is enough, then it's most likely too late... that's all just hypothetical, of course. Hopefully, things get solved. For the greater good of all. Funny that I've only ever heard for the greater good when it comes to war and genocide ot things like that. But the only time it would actually be for the greater good of all would be now and times like now whenever there's imbalances that tip the scale of equality too much. 😉 something to think on. I've been working slowly at articulating some big thoughts on the infrastructure & structure of government and uniting everybody, but I have more work to do.🎉😊 have a good day",
+              "parentId": "UgxU-jeT-AjkY5tkuGR4AaABAg",
+              "authorDisplayName": "Dakota Peters",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/uf1K6MpXzwNd6uCIIPHbLoWAB7dR9H6WH-PVNO7uMPj1SZf2ODZCmFkvqWwiq3fkjL8BNQAyaCg=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UCuJ_rnRzx_UeX4sxxPU-FbQ",
+              "authorChannelId": {
+                "value": "UCuJ_rnRzx_UeX4sxxPU-FbQ"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2023-03-16T21:38:53Z",
+              "updatedAt": "2023-03-16T21:38:53Z"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "JU7BDyeCIzNBJhY6fUDpdHbg-xI",
+      "id": "UgzAaOv5cyEFPaSZrAl4AaABAg",
+      "snippet": {
+        "videoId": "_VB39Jo8mAQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "Ss57xwa6ycX9UAuF0TgjEfqmc08",
+          "id": "UgzAaOv5cyEFPaSZrAl4AaABAg",
+          "snippet": {
+            "videoId": "_VB39Jo8mAQ",
+            "textDisplay": "I’m 37 I didn’t buy myself new clothes for 12 years only thrift stores I have been wearing another man’s clothing my entire life I finally got a credit card and all I wanted was some new clothes I finally bought some and all my mom could say was how wasteful I was it’s sad cause I personally by myself no help built every house my family lives in and yet my room is totally unfinished but everyone else has nice stuff seems to me that money is real enough for a lot of people just not me",
+            "textOriginal": "I’m 37 I didn’t buy myself new clothes for 12 years only thrift stores I have been wearing another man’s clothing my entire life I finally got a credit card and all I wanted was some new clothes I finally bought some and all my mom could say was how wasteful I was it’s sad cause I personally by myself no help built every house my family lives in and yet my room is totally unfinished but everyone else has nice stuff seems to me that money is real enough for a lot of people just not me",
+            "authorDisplayName": "Christopher Fodor",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqPApO2bTXfT7-oxyHHI3Yt6EuD0WJdrIMJT0w=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCA5Q6EQs40lDTK6sVwbzk5w",
+            "authorChannelId": {
+              "value": "UCA5Q6EQs40lDTK6sVwbzk5w"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-03-07T13:52:18Z",
+            "updatedAt": "2023-03-07T13:52:18Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "l3m3cipucPwe-ZswK3XqZS6Tvf4",
+      "id": "UgyX6FV4keUDObAdHc54AaABAg",
+      "snippet": {
+        "videoId": "_VB39Jo8mAQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "wb-irRdHPLlpXoWDD60mtVWU8Ig",
+          "id": "UgyX6FV4keUDObAdHc54AaABAg",
+          "snippet": {
+            "videoId": "_VB39Jo8mAQ",
+            "textDisplay": "That&#39;s why casinos use chips and not actual notes or coins. It&#39;s not real money, therefore it&#39;s easier to lose it.<br>Money doesn&#39;t seem real, therefore it doesn&#39;t matter...",
+            "textOriginal": "That's why casinos use chips and not actual notes or coins. It's not real money, therefore it's easier to lose it.\nMoney doesn't seem real, therefore it doesn't matter...",
+            "authorDisplayName": "James Spry",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqO6ry_BOqmhddHY106a4tBj8LuhHVn_mTr8wQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC662idiqGN2wEIZiJ4Ph8UQ",
+            "authorChannelId": {
+              "value": "UC662idiqGN2wEIZiJ4Ph8UQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-03-03T23:06:49Z",
+            "updatedAt": "2023-03-03T23:06:49Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "14iBjSPaeWxLLLLBUKaKtZYeT3g",
+      "id": "UgyHHyea7BzYfGzi8X54AaABAg",
+      "snippet": {
+        "videoId": "_VB39Jo8mAQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "x7w6Pwx4DVSQIvYL6NvF_2iVhk8",
+          "id": "UgyHHyea7BzYfGzi8X54AaABAg",
+          "snippet": {
+            "videoId": "_VB39Jo8mAQ",
+            "textDisplay": "As amazing as this is, it&#39;s 7 years old. This man never saw the epidemic of Streaming and creationless &quot;jobs&quot; coming. The amount of money that transfers from pocket to pocket on a daily basis for internet entertainment (when such services are marketed as free to begin with), is astounding and appalling at the same time.",
+            "textOriginal": "As amazing as this is, it's 7 years old. This man never saw the epidemic of Streaming and creationless \"jobs\" coming. The amount of money that transfers from pocket to pocket on a daily basis for internet entertainment (when such services are marketed as free to begin with), is astounding and appalling at the same time.",
+            "authorDisplayName": "Neil Daniels",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqOoGuwOK73gTFsuXvpL7Fbfp4phq9xALtI2Bg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCv7TH6O2Lna3yvi0_ve6V0g",
+            "authorChannelId": {
+              "value": "UCv7TH6O2Lna3yvi0_ve6V0g"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-03-02T18:13:37Z",
+            "updatedAt": "2023-03-02T18:13:37Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "vzfqt5CB4QL8BGv7DoY1hEVjZIU",
+      "id": "Ugxb_MsAdIEDhFm2yF14AaABAg",
+      "snippet": {
+        "videoId": "_VB39Jo8mAQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "MDd3VLItoFTy6d9DNNxGD0Vehbw",
+          "id": "Ugxb_MsAdIEDhFm2yF14AaABAg",
+          "snippet": {
+            "videoId": "_VB39Jo8mAQ",
+            "textDisplay": "We go through life repeating what we know. <br>We build habits of thinking. <br>Mozart probably touched the piano keys and watched older people playing when he was 2 years old.<br>He had a decade of experience by the time he was 12.<br>Nobody was going to get near his experience. <br>Same with money, early thinking about money, in the reality of money is critical. <br>Poor money thinking becomes the go to way of thinking about money.",
+            "textOriginal": "We go through life repeating what we know. \nWe build habits of thinking. \nMozart probably touched the piano keys and watched older people playing when he was 2 years old.\nHe had a decade of experience by the time he was 12.\nNobody was going to get near his experience. \nSame with money, early thinking about money, in the reality of money is critical. \nPoor money thinking becomes the go to way of thinking about money.",
+            "authorDisplayName": "Stephen Brickwood",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqMfZzq4WATDE_67yE7h5RfRHi3XJevqlG-bSw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCaKeBJQKOYVuJfflEPX66jw",
+            "authorChannelId": {
+              "value": "UCaKeBJQKOYVuJfflEPX66jw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-02-17T11:40:26Z",
+            "updatedAt": "2023-02-17T11:40:26Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "XmmH2CCWr3W_Cd8_fyuO9AkXwdk",
+      "id": "Ugxh4f-iUs0nqwB8Hdt4AaABAg",
+      "snippet": {
+        "videoId": "_VB39Jo8mAQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "KwW5q_SiZBgUiVg2orIejElmmok",
+          "id": "Ugxh4f-iUs0nqwB8Hdt4AaABAg",
+          "snippet": {
+            "videoId": "_VB39Jo8mAQ",
+            "textDisplay": "vipul kumar",
+            "textOriginal": "vipul kumar",
+            "authorDisplayName": "vipul kumar",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/C7A6XkUVfHPKfwAN-W05zk-bW7hPckiXLqltbIUdyELGe_Z-aM2JS9NEK3AhhWVgupn4j4tRfA4=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCz5z6g09xDT226kSAdw2Jgg",
+            "authorChannelId": {
+              "value": "UCz5z6g09xDT226kSAdw2Jgg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-02-06T01:56:14Z",
+            "updatedAt": "2023-02-06T01:56:14Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "RRrjew61HBkm18b-XhNpiv6g6vE",
+      "id": "UgwOuYopcniTbt_5n5N4AaABAg",
+      "snippet": {
+        "videoId": "_VB39Jo8mAQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "JUPe-cYeqJBd5ZMfL7qYQ6onaIQ",
+          "id": "UgwOuYopcniTbt_5n5N4AaABAg",
+          "snippet": {
+            "videoId": "_VB39Jo8mAQ",
+            "textDisplay": "When the country is 1.3 trillion in debt how can you expect the ordinary person to be responsible w a piece of plastic and a credit limit",
+            "textOriginal": "When the country is 1.3 trillion in debt how can you expect the ordinary person to be responsible w a piece of plastic and a credit limit",
+            "authorDisplayName": "Spencer K",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqN7yDoh96qTYZFd4qhge9cKrwbFBjev2Kap5V-aUg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCijVjFw1DO0m27fU1Nl2sdw",
+            "authorChannelId": {
+              "value": "UCijVjFw1DO0m27fU1Nl2sdw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-01-31T05:03:58Z",
+            "updatedAt": "2023-01-31T05:03:58Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "PIZBSVyRx1b8_y_ujZ86tkfq3N0",
+      "id": "UgyiF8tDfHFPM5NppvV4AaABAg",
+      "snippet": {
+        "videoId": "_VB39Jo8mAQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "5wcVvsSEI5EkvgIYLp8jZFJPB1I",
+          "id": "UgyiF8tDfHFPM5NppvV4AaABAg",
+          "snippet": {
+            "videoId": "_VB39Jo8mAQ",
+            "textDisplay": "Please, we all know the best strategy is to buy as much as you can, you don&#39;t buy and your money ends up paying other players, kinda like mortally wounded but not dead yet",
+            "textOriginal": "Please, we all know the best strategy is to buy as much as you can, you don't buy and your money ends up paying other players, kinda like mortally wounded but not dead yet",
+            "authorDisplayName": "Ting Lee Hoong",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqNzrCiNd1b8uBG2PEa9VD_XW5OO3YSAkCCg6LOxhQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC0DJPA-NPMmAIPOoMkjPrtw",
+            "authorChannelId": {
+              "value": "UC0DJPA-NPMmAIPOoMkjPrtw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-01-05T04:09:48Z",
+            "updatedAt": "2023-01-05T04:09:48Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "7m7x7upNwTzZe4gWywXV5ufQpcE",
+      "id": "UgzFVYajpZiqQrdKOpx4AaABAg",
+      "snippet": {
+        "videoId": "_VB39Jo8mAQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "xaQydDo38UjBkho0Y4qLv9gtehw",
+          "id": "UgzFVYajpZiqQrdKOpx4AaABAg",
+          "snippet": {
+            "videoId": "_VB39Jo8mAQ",
+            "textDisplay": "I don&#39;t think abstraction is the major problem. I think taking on too much debt without understand it is the problem.  Letting a kid live and go to school on credit for 4 years without making a monthly payment doesn&#39;t teach the pain of monthly payments soon enough. Lend your under-age children money to buy a game or whatever; let them pay you back weekly or monthly using their allowance and/or job; i.e. start small. Then lend them money to buy a car or computer. Don&#39;t let them go from no debt experience to $50,000 in debt for education, room, and board. If that had happened to me I would have been angry, like someone had set me up for indentured servitude, like I had been trapped rather than helped.",
+            "textOriginal": "I don't think abstraction is the major problem. I think taking on too much debt without understand it is the problem.  Letting a kid live and go to school on credit for 4 years without making a monthly payment doesn't teach the pain of monthly payments soon enough. Lend your under-age children money to buy a game or whatever; let them pay you back weekly or monthly using their allowance and/or job; i.e. start small. Then lend them money to buy a car or computer. Don't let them go from no debt experience to $50,000 in debt for education, room, and board. If that had happened to me I would have been angry, like someone had set me up for indentured servitude, like I had been trapped rather than helped.",
+            "authorDisplayName": "Dan Collins",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqOGMeIQMhd2DQ5damuZSwnNBMWWysCzG0xl7w=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCr0RD-0RQ7ghqqIj2a0TOXA",
+            "authorChannelId": {
+              "value": "UCr0RD-0RQ7ghqqIj2a0TOXA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-01-01T17:11:07Z",
+            "updatedAt": "2023-01-01T17:11:07Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "FJNODcAHXdAlYYyphFh_Lla5lB0",
+      "id": "Ugx3Byzoy9nzKWHmvrB4AaABAg",
+      "snippet": {
+        "videoId": "_VB39Jo8mAQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "O6K8Moy4MwC_-9mVMW8jEuw9LvM",
+          "id": "Ugx3Byzoy9nzKWHmvrB4AaABAg",
+          "snippet": {
+            "videoId": "_VB39Jo8mAQ",
+            "textDisplay": "Brilliant",
+            "textOriginal": "Brilliant",
+            "authorDisplayName": "Shimster IOM",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqMOY2RPRmb2mW2L32-WmsS2D6b0CyKZUDqQxvbX-g=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCtcomCQlL9ZLlfIn6afrBXg",
+            "authorChannelId": {
+              "value": "UCtcomCQlL9ZLlfIn6afrBXg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2022-12-24T19:25:12Z",
+            "updatedAt": "2022-12-24T19:25:12Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "iv21pvD6cyINiv6W_xCfN3OJxac",
+      "id": "Ugyr92iN2KpdTlzNO3h4AaABAg",
+      "snippet": {
+        "videoId": "_VB39Jo8mAQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "_BU8JdSEm3BMz6LJLinkHRWMElA",
+          "id": "Ugyr92iN2KpdTlzNO3h4AaABAg",
+          "snippet": {
+            "videoId": "_VB39Jo8mAQ",
+            "textDisplay": "How did they play the next time the money was fake?",
+            "textOriginal": "How did they play the next time the money was fake?",
+            "authorDisplayName": "Al",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqNW3HLIGoxVqmS9eB6LUSdAqNb5iHVFIr_vqOB92wM-XNT4IIUqGODwUAFIVwtS0A=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC2iHadI3gETvtpAwXd-WLxA",
+            "authorChannelId": {
+              "value": "UC2iHadI3gETvtpAwXd-WLxA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2022-12-23T12:33:36Z",
+            "updatedAt": "2022-12-23T12:33:36Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "fygLpmRXcNA8OWr5-gu-QOEkPmo",
+      "id": "UgxDwdRV_01uppS_eyd4AaABAg",
+      "snippet": {
+        "videoId": "_VB39Jo8mAQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "yGeYSvzS1s8hw_8MVQilKhX99Gw",
+          "id": "UgxDwdRV_01uppS_eyd4AaABAg",
+          "snippet": {
+            "videoId": "_VB39Jo8mAQ",
+            "textDisplay": "Not a sob story: me and my two older brothers grew up in a single parent household. If we wanted anything we had to go out and earn it. Paper rounds, Window cleaning. Setting up and stripping out of the towns market stall every Wednesday (Before and after school ) and Saturday . Kitchen Porter in a Hotel. Set us on the right track from the start. When you earn it you  look after it and dont take it for granted!!",
+            "textOriginal": "Not a sob story: me and my two older brothers grew up in a single parent household. If we wanted anything we had to go out and earn it. Paper rounds, Window cleaning. Setting up and stripping out of the towns market stall every Wednesday (Before and after school ) and Saturday . Kitchen Porter in a Hotel. Set us on the right track from the start. When you earn it you  look after it and dont take it for granted!!",
+            "authorDisplayName": "Paul Vella",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqOoVON0ZNfcKtboHH6VmVHsGD_MRmZh363LB8Ua2g=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCRqMX7OuAR-GP1MZucT1AKg",
+            "authorChannelId": {
+              "value": "UCRqMX7OuAR-GP1MZucT1AKg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 8,
+            "publishedAt": "2022-12-11T20:22:28Z",
+            "updatedAt": "2022-12-11T20:22:28Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "S0NaMLP2aM-TVv9dinJknM9U20k",
+      "id": "UgzAxSOc1jbFbYgIwNV4AaABAg",
+      "snippet": {
+        "videoId": "_VB39Jo8mAQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "kv9HOK7yPIv2A4jqC4iiqITAF4A",
+          "id": "UgzAxSOc1jbFbYgIwNV4AaABAg",
+          "snippet": {
+            "videoId": "_VB39Jo8mAQ",
+            "textDisplay": "Kids should not have too many, let them know how to work it out by themselves",
+            "textOriginal": "Kids should not have too many, let them know how to work it out by themselves",
+            "authorDisplayName": "Cool Girl 007",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/iNyVdHDKXviHa73PWMr1dLcLSmwUHaoDNN6Bx2QXbHsV1UXcESKy1oY84XtHIzE5vl38ircA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCjeAv48JCv_QQCU6bpbSWiA",
+            "authorChannelId": {
+              "value": "UCjeAv48JCv_QQCU6bpbSWiA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2022-12-03T03:05:17Z",
+            "updatedAt": "2022-12-03T03:05:17Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "r7x_Evn8NDOPBrcsgSReMnZpubQ",
+      "id": "UgzAc7GEoAmf2baGzJx4AaABAg",
+      "snippet": {
+        "videoId": "_VB39Jo8mAQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "VkqxC6wPaMpaRZ-C6Ky31BreszQ",
+          "id": "UgzAc7GEoAmf2baGzJx4AaABAg",
+          "snippet": {
+            "videoId": "_VB39Jo8mAQ",
+            "textDisplay": "We only give money value because we believe it has value &amp; abra ca dabra value is given",
+            "textOriginal": "We only give money value because we believe it has value & abra ca dabra value is given",
+            "authorDisplayName": "Walk!ng Sθftwarə",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqMhm05uhHCs6dSJE6cQQ8GkW1D9lTxATvuWAdkGcA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCa9OrRrIgar0znRHM8rfnug",
+            "authorChannelId": {
+              "value": "UCa9OrRrIgar0znRHM8rfnug"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2022-11-26T16:02:43Z",
+            "updatedAt": "2022-11-26T16:02:43Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "xo8DGFVSsbL9an7SThm8g9b8j00",
+      "id": "UgxS9ctjkBawaV3PnAB4AaABAg",
+      "snippet": {
+        "videoId": "_VB39Jo8mAQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "tkfP-zFNuJfk1u2krr4Rk2mS-os",
+          "id": "UgxS9ctjkBawaV3PnAB4AaABAg",
+          "snippet": {
+            "videoId": "_VB39Jo8mAQ",
+            "textDisplay": "The energetic channel invariably reduce because vacation namely receive regarding a lumpy stepson. rural, useful law",
+            "textOriginal": "The energetic channel invariably reduce because vacation namely receive regarding a lumpy stepson. rural, useful law",
+            "authorDisplayName": "Phantom Menace",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqOsQFXqwq7zrR2dRJ_VUfzU6v9K-JbV4QUyWdwaMFi2YOHkj1f0LJ7uPso-oEXA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCuB8f7Vn0vw9rHU2SX3ub2g",
+            "authorChannelId": {
+              "value": "UCuB8f7Vn0vw9rHU2SX3ub2g"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2022-10-18T19:46:34Z",
+            "updatedAt": "2022-10-18T19:46:34Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "jLWALYgWpFY4spEMzMtB32vYyjI",
+      "id": "UgwUWDZOF2WTRPJbv7N4AaABAg",
+      "snippet": {
+        "videoId": "_VB39Jo8mAQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "fvx1sY9Ago6pwZZ5jceRycS9B14",
+          "id": "UgwUWDZOF2WTRPJbv7N4AaABAg",
+          "snippet": {
+            "videoId": "_VB39Jo8mAQ",
+            "textDisplay": "Even with physical money, a dollar is really an abstraction of 100 pennies, a 10 dollar bill is an abstraction of 10 dollars, etc.",
+            "textOriginal": "Even with physical money, a dollar is really an abstraction of 100 pennies, a 10 dollar bill is an abstraction of 10 dollars, etc.",
+            "authorDisplayName": "GravitySmashify",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqOQwsnY0DvVlrZKV2L0s83lDUGDgwmFwWCBH_7r=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC5C0RRRgdpLFSxrt7tCmTSQ",
+            "authorChannelId": {
+              "value": "UC5C0RRRgdpLFSxrt7tCmTSQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2022-10-13T03:53:56Z",
+            "updatedAt": "2022-10-13T03:53:56Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    }
+  ]
+}

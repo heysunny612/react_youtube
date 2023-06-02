@@ -1,19 +1,21 @@
 import { Outlet } from 'react-router-dom';
-import Search from './components/Search/Search';
-import { QueryClient, QueryClientProvider } from '@tanstack/react-query';
+import SearchHeader from './components/SearchHeader';
+import { QueryClientProvider, QueryClient } from '@tanstack/react-query';
 import { YoutubeApiProvider } from './context/YoutubeApiContext';
+import Footer from './components/Footer';
 
 const queryClient = new QueryClient();
 
 function App() {
   return (
     <>
-      <Search />
-      <YoutubeApiProvider>
-        <QueryClientProvider client={queryClient}>
+      <SearchHeader />
+      <QueryClientProvider client={queryClient}>
+        <YoutubeApiProvider>
           <Outlet />
-        </QueryClientProvider>
-      </YoutubeApiProvider>
+        </YoutubeApiProvider>
+      </QueryClientProvider>
+      <Footer />
     </>
   );
 }

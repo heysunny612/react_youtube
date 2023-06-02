@@ -1,49 +1,83 @@
-import axios from 'axios';
-
 export default class Youtube {
-  constructor() {
-    this.httpClient = axios.create({
-      baseURL: 'https://youtube.googleapis.com/youtube/v3/',
-      params: { key: process.env.REACT_APP_YOUTUBE_API_KEY },
-    });
-  }
-  async search(keyword) {
-    return keyword ? this.#searchByKeyword(keyword) : this.#mostPopular();
+  constructor(apiClient) {
+    this.apiClient = apiClient;
   }
 
-  async relatedVideos(id) {
-    return this.httpClient
-      .get('search', {
+  getVideos(keyword) {
+    return keyword ? this.#getSearch(keyword) : this.#getPopular();
+  }
+
+  async #getSearch(keyword) {
+    return await this.apiClient
+      .search({
         params: {
           part: 'snippet',
           maxResults: 25,
-          type: 'video',
-          relatedToVideoId: id,
+          q: keyword,
+        },
+      })
+      .then((res) => res.data.items)
+      .then((items) =>
+        items.map((item) => {
+          return { ...item, id: item.id.videoId };
+        })
+      );
+  }
+
+  async #getPopular() {
+    return await this.apiClient
+      .videos({
+        params: {
+          part: 'snippet',
+          chart: 'mostPopular',
+          maxResults: 25,
         },
       })
       .then((res) => res.data.items);
   }
 
-  async channelImageURL(id) {
-    return this.httpClient
-      .get('channels', {
-        params: { part: 'snippet', id },
+  async getChannel(channelId) {
+    return await this.apiClient
+      .channel({
+        params: {
+          part: 'snippet',
+          id: channelId,
+        },
       })
-      .then((res) => res.data.items[0].snippet.thumbnails.default.url);
+      .then((res) => res.data.items[0].snippet);
   }
-  async #searchByKeyword(keyword) {
-    return this.httpClient
-      .get('search', {
-        params: { part: 'snippet', maxResults: 25, type: 'video', q: keyword },
+
+  async getRelated(videoId) {
+    return await this.apiClient
+      .related({
+        params: {
+          part: 'snippet',
+          maxResults: 25,
+          relatedToVideoId: videoId,
+          type: 'video',
+        },
       })
       .then((res) => res.data.items)
-      .then((items) => items.map((item) => ({ ...item, id: item.id.videoId })));
+      .then((items) =>
+        items.map((item) => {
+          return { ...item, id: item.id.videoId };
+        })
+      );
   }
-  async #mostPopular() {
-    return this.httpClient
-      .get('videos', {
-        params: { part: 'snippet', maxResults: 25, chart: 'mostPopular' },
+
+  async getComments(videoId) {
+    return await this.apiClient
+      .comments({
+        params: {
+          part: 'snippet',
+          videoId,
+          maxResults: 20,
+        },
       })
-      .then((res) => res.data.items);
+      .then((res) =>
+        res.data.items.map((item) => ({
+          ...item.snippet.topLevelComment.snippet,
+        }))
+      );
   }
 }
