@@ -25,12 +25,12 @@ export default function VideoCard({
     <li
       onClick={handleClick}
       role='button'
-      className={isList ? 'flex gap-1 m-2' : ''}
+      className={isList ? 'flex gap-1 m-2 ' : ''}
     >
       <img
         src={medium.url}
         alt={title}
-        className={isList ? 'w-60 mr-4' : 'w-full '}
+        className={isList ? 'mr-2 w-32 lg:w-44' : 'w-full '}
       />
       <div>
         <p className='font-semibold my-2 line-clamp-2'>{title}</p>
