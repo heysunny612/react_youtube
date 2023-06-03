@@ -3,6 +3,7 @@ import { useYoutebeApi } from '../context/YoutubeApiContext';
 import { useQuery } from '@tanstack/react-query';
 import Loading from './Loading';
 import { formatAgo } from '../util/date';
+import { v4 as uuidv4 } from 'uuid';
 
 export default function Comment({ id }) {
   const { youtube } = useYoutebeApi();
@@ -27,7 +28,7 @@ export default function Comment({ id }) {
               publishedAt,
               authorChannelId,
             }) => (
-              <li className='flex mb-5' key={authorChannelId.value}>
+              <li className='flex mb-5' key={uuidv4()}>
                 <div className='shrink-0'>
                   <img
                     src={authorProfileImageUrl}
