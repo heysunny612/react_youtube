@@ -17,7 +17,7 @@ export default function VideoDetail() {
     <section className='flex flex-col lg:flex-row'>
       <article className='basis-4/6'>
         <iframe
-          className='w-11/12 h-96 mx-auto lg:h-1/6'
+          className='w-full h-96 lg:h-1/6'
           src={`https://www.youtube.com/embed/${videoId}`}
           title='YouTube video player'
           allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share'
