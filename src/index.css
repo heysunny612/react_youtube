@@ -9,6 +9,10 @@ body {
   @apply bg-zinc-900 text-gray-50;
 }
 
+* {
+  box-sizing: border-box;
+}
+
 #root {
   @apply px-2.5 mx-auto lg:w-full max-w-screen-xl;
 }

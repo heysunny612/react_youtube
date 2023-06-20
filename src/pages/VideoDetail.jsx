@@ -24,7 +24,7 @@ export default function VideoDetail() {
           allowFullScreen
         ></iframe>
         <div className='lg:p-8 py-8'>
-          <h2 className='text-xl font-bold'>{title}</h2>{' '}
+          <h2 className='text-xl font-bold'>{title}</h2>
           <ChannelInfo id={channelId} name={channelTitle} />
           <pre className='whitespace-pre-wrap bg-zinc-800 p-3 rounded-xl'>
             {description}
