@@ -1,6 +1,8 @@
 # 리액트 프로젝트 미니 유튜브 사이트 만들기 
 
-![ZCX](https://github.com/heysunny612/react_youtube/assets/127499117/137a8387-3e91-4f62-ae4b-63a530a10194)
+<p align="center">
+    <img src="https://github.com/heysunny612/react_youtube/assets/127499117/137a8387-3e91-4f62-ae4b-63a530a10194" alt="ZCX">
+</p>
 
 <br/>
 
@@ -31,7 +33,9 @@
 <br/>
 <br/>
 
-![SDSDSDS](https://github.com/heysunny612/react_youtube/assets/127499117/afd688be-f7fb-42db-a8b7-6c7ddceea1cd)
+<p align="center">
+    <img src="https://github.com/heysunny612/react_youtube/assets/127499117/afd688be-f7fb-42db-a8b7-6c7ddceea1cd" alt="SDSDSDS">
+</p>
 
 
 <br/>
